@@ -22,5 +22,5 @@ Reply from 192.168.1.10: bytes=32 time<1ms TTL=128
 Packets: Sent = 4, Received = 4, Lost = 0 (0% loss)
 
 **Status:** Completed
-![Lab 2 Topology](images/lab2.png)
-![Lab 2 Result](images/lab2.1.png)
+![Lab 2 Topology and ping](image/lab2.png)
+![Lab 2 Result](image/lab2.1.png)
