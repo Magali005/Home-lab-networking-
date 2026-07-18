@@ -28,3 +28,7 @@ Ping PC0 to PC5 (192.168.30.2, different network): 0% loss - SUCCESS
 **Key takeaway:** A router connects different networks together, while a switch only connects devices within the same network or VLAN. Both the physical link and the VLAN assignment must be correct for routing to work.
 
 **Status:** Completed
+![Lab 4 Topology](image/lab4.png)
+![Lab 4 config](image/lab4.1.png)
+![Lab 4 config](image/lab4.2.png)
+![Lab 4  Result](image/lab4.3.png)
