@@ -6,7 +6,7 @@ This repository, document my self-directed networking labs , completed before an
 - cisco packet tracer
 - cisco netacad
 - ## Lab Progress
-- | lab  |              topic                 |  Statut |                                                                                                               |lab1  |Basic PC to PC network via switch   |                                                                                                                         |lab2  |Static IP configuration             |                                                                                                                         |lab3  |DHCP configuration                  |                                                                                                                         |lab4  |Basic router configuration          | 
+- | lab  |              topic                 |  Statut |                                                                                                               |lab1  |Basic PC to PC network via switch   |   complete                                                                                                                      |lab2  |Static IP configuration             |complete                                                                                                                         |lab3  |DHCP configuration                  | complete                                                                                                                        |lab4  |Basic router configuration          |complete 
   ## Structure
 Each labs inlcudes:
 Objectives and topologies used
