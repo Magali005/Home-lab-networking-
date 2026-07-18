@@ -1,0 +1,26 @@
+# Lab 4 — Basic Router Configuration (Inter-Network Routing)
+
+**Objective:** Connect two separate networks using a router and verify 
+end-to-end connectivity.
+
+**Topology:** 
+- Network A: PC0, PC1 (VLAN 10) — Switch0 — Router0 (Gig0/0)
+- Network B: PC4, PC5 — Switch1 — Router0 (Gig0/1)
+
+**Router Configuration:**
+
+**Troubleshooting notes:**
+1. Interface showed "up/down" (protocol down) — caused by a cabling issue 
+   between Router0 and Switch1. Fixed by re-cabling the connection.
+2. Ping between PC0 and Router0 failed completely — traced to a VLAN 
+   mismatch: the switch port connected to the router was still in the 
+   default VLAN instead of VLAN 10 (PC0's VLAN). Fixed by reassigning 
+   that port to VLAN 10.
+
+**Test Results:**
+
+**Key takeaway:** A router connects different networks together, while 
+a switch only connects devices within the same network/VLAN. Both the 
+physical link and the VLAN assignment must be correct for routing to work.
+
+**Status:** ✅ Completed
