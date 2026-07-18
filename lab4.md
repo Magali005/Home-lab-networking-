@@ -23,4 +23,4 @@ end-to-end connectivity.
 a switch only connects devices within the same network/VLAN. Both the 
 physical link and the VLAN assignment must be correct for routing to work.
 
-**Status:** ✅ Completed
+**Status:**  Completed
