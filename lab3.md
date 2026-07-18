@@ -26,4 +26,4 @@ the port with `switchport access vlan 20`. Verified the fix using
 devices share the same physical switch, which is used in real networks 
 to separate departments for security and organization.
 
-**Status:** ✅ Completed
+**Status:**  Completed
