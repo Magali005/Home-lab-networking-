@@ -1,7 +1,7 @@
 # Home Lab Networking
 
 Virtual networking labs using Cisco Packet Tracer, completed in preparation 
-for the Computer Networking program at Georgian College (Barrie, ON, Canada).
+for the Computer Networking program .
 
 ## Objective
 
