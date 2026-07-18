@@ -1,20 +1,29 @@
-# Home-lab-networking-Joyc Magali Owona Atangana
-Virtual Networking labs using cisco packet tracer
-## OBJECTIVE
-This repository, document my self-directed networking labs , completed before and during my studies to buildpractical skills in networking configuration and trouble shooting. 
-## Tools used
-- cisco packet tracer
-- cisco netacad
-- ## Lab Progress
-- | lab  |              topic                 |  Statut |                                                                                                               |lab1  |Basic PC to PC network via switch   |   complete                                                                                                                      |lab2  |Static IP configuration             |complete                                                                                                                         |lab3  |DHCP configuration                  | complete                                                                                                                        |lab4  |Basic router configuration          |complete 
-  ## Structure
-Each labs inlcudes:
-Objectives and topologies used
-Packet tracer screenshot
-Commandes and Configuration steps
-Results and lesson learnt 
+# Home Lab Networking
 
+Virtual networking labs using Cisco Packet Tracer, completed in preparation 
+for the Computer Networking program at Georgian College (Barrie, ON, Canada).
 
-## AUTHOR
-JOYCE MAGALI OWONA ATANGANA 
-Incoming Student  in Computer Networking
+## Objective
+
+This repository documents my self-directed networking labs, completed 
+before and during my studies, to build practical skills in network 
+configuration and troubleshooting.
+
+## Tools Used
+
+- Cisco Packet Tracer
+- Cisco NetAcad (Networking Academy)
+
+## Lab Progress
+
+| Lab | Topic | Status |
+|-----|-------|--------|
+| Lab 1 | [Basic PC-to-PC network via switch](lab1.md) |  Completed |
+| Lab 2 | [DHCP Configuration](lab2.md) |  Completed |
+| Lab 3 | [Basic VLANs](lab3.md) |  Completed |
+| Lab 4 | [Basic Router Configuration](lab4.md) | Completed |
+
+## Author
+
+Joyce Magali Owona Atangana  
+Incoming student — Computer Networking, Georgian College
