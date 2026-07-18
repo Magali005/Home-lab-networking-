@@ -1,4 +1,4 @@
-#Lab1-Basic PC to PC Network via Switch
+# Lab1-Basic PC to PC Network via Switch
 
 **Objective:** Connect two PCs through a switch and verify connectivity.
 
