@@ -22,5 +22,5 @@ Ping PC1 (VLAN 10) to PC2 (VLAN 20): 100% loss - FAILED (different VLAN, as expe
 **Key takeaway:** VLANs isolate broadcast domains and traffic even when devices share the same physical switch, which is used in real networks to separate departments for security and organization.
 
 **Status:** Completed
-![Lab 1 Topology](image/lab3.png)
-![Lab 1 Ping Result](image/lab3.1.png)
+![Lab 1 Topology&ping](image/lab3.png)
+![Lab 1 switch Result](image/lab3.1.png)
