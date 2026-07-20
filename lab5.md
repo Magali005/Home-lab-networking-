@@ -29,3 +29,11 @@ Ping PC6 (network C) to PC5 (192.168.30.2, network B): 25% loss initially, then 
 **Key takeaway:** Static routes must be configured on every router along the path for multi-hop connectivity to work. Each router only knows about networks it is directly connected to, or has been explicitly told how to reach via ip route.
 
 **Status:** Completed
+![Lab 5 Topology](image/lab5.top.png)
+![Lab 5 Ping Result](image/lab5.ping6-5.png)
+![Lab 5 Router config](image/lab5.rt0.png)
+![Lab 5 Ping Result](image/lab5.ping0.png)
+![Lab 5 Router config](image/lab5.rt1.png)
+![Lab 5 road](image/lab5.route.png)
+
+
