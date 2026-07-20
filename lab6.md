@@ -29,5 +29,7 @@ Ping PC4 to Server0 (192.168.10.10): 0% loss - SUCCESS (unaffected, confirms ACL
 **Key takeaway:** ACLs allow granular control over network traffic, blocking specific source and destination combinations while leaving all other traffic unaffected. The final permit ip any any line is critical, since ACLs deny all traffic by default once any rule is applied. ACLs should generally be applied as close to the source of the traffic being filtered as possible.
 
 **Status:** Completed
-![Lab 1 Topology](images/lab1-topology.png)
-![Lab 1 Ping Result](images/lab1-ping-result.png)
+![Lab 6 ACL config](image/lab6.acl.png)
+![Lab 6 Ping Result](image/lab6.pingpc4.png)
+![Lab 6 ping result](image/lab6.pingsvr0.png)
+
